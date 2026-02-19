@@ -49,5 +49,3 @@ Designed for **real-time / low-latency** safety control and robust operation in 
 - `Dataset/` — dataset utilities / loaders
 - `Model/` — network definitions
 
-# macOS/Linux:
-source .venv/bin/activate
