@@ -41,8 +41,8 @@ Designed for **real-time / low-latency** safety control and robust operation in 
 ---
 
 ## Repository Contents (Key Files)
-- `train.py` — model training (paths/config may need editing)
-- `eval.py` — evaluation utilities (if used in your workflow)
+- `train.py` — model training 
+- `eval.py` — evaluation utilities 
 - `inference.py` — PyTorch inference (webcam / video style loop)
 - `Export_Onnx.py` — export trained model to ONNX
 - `InferenceV2_Onnx.py` — ONNXRuntime inference (ToF time-series pipeline)
